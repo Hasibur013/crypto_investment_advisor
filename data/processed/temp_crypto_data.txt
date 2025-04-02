@@ -1,0 +1,23 @@
+        name symbol    price   market_cap   volume_24h  change_24h        source  sentiment        trend
+     Bitcoin    BTC 61245.32 1.203450e+12 3.245000e+10         2.3 CoinMarketCap        NaN          NaN
+    Ethereum    ETH  3214.54 3.987600e+11 1.238000e+10         1.8 CoinMarketCap        NaN          NaN
+Binance Coin    BNB   542.65 8.765000e+10 2.134000e+09        -0.7 CoinMarketCap        NaN          NaN
+      Solana    SOL   143.21 6.234000e+10 3.218000e+09         5.4 CoinMarketCap        NaN          NaN
+     Cardano    ADA     0.58 2.345000e+10 9.870000e+08        -1.2 CoinMarketCap        NaN          NaN
+     Bitcoin    BTC 61278.12 1.204120e+12 3.252000e+10         2.4     CoinGecko        NaN          NaN
+    Ethereum    ETH  3210.87 3.982300e+11 1.241000e+10         1.7     CoinGecko        NaN          NaN
+      Ripple    XRP     0.58 3.125000e+10 1.342000e+09         3.2     CoinGecko        NaN          NaN
+    Polkadot    DOT     7.32 9.870000e+09 4.320000e+08        -0.8     CoinGecko        NaN          NaN
+   Avalanche   AVAX    36.24 1.345000e+10 7.650000e+08         4.3     CoinGecko        NaN          NaN
+     Bitcoin    BTC      NaN          NaN          NaN         NaN  Binance Blog       0.80      bullish
+    Ethereum    ETH      NaN          NaN          NaN         NaN  Binance Blog       0.70      bullish
+Binance Coin    BNB      NaN          NaN          NaN         NaN  Binance Blog       0.85 very bullish
+    Arbitrum    ARB      NaN          NaN          NaN         NaN  Binance Blog       0.60      neutral
+     Bitcoin    BTC 61190.45 1.202980e+12 3.238000e+10         2.2 CryptoCompare        NaN          NaN
+    Ethereum    ETH  3216.21 3.991200e+11 1.235000e+10         1.9 CryptoCompare        NaN          NaN
+   Chainlink   LINK    14.87 8.760000e+09 5.430000e+08         6.2 CryptoCompare        NaN          NaN
+     Uniswap    UNI     8.43 6.540000e+09 3.210000e+08         3.1 CryptoCompare        NaN          NaN
+     Bitcoin    BTC      NaN          NaN          NaN         NaN   Kraken Blog       0.75      bullish
+    Ethereum    ETH      NaN          NaN          NaN         NaN   Kraken Blog       0.65      neutral
+    Dogecoin   DOGE      NaN          NaN          NaN         NaN   Kraken Blog       0.50      neutral
+     Polygon  MATIC      NaN          NaN          NaN         NaN   Kraken Blog       0.70      bullish
